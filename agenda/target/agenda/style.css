@@ -1,0 +1,96 @@
+body {
+    background-color: #87CEFA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    margin-bottom: 30px;
+}
+
+h1.page {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: rgb(95, 95, 207);
+    padding: 5px 10px 5px 10px;
+    color: white;
+    font-size: 1.2em;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-left: 47%;
+}
+
+.button2 {
+    text-decoration: none;
+    background-color: rgb(95, 95, 207);
+    padding: 5px 10px 5px 10px;
+    color: white;
+    font-size: 1.2em;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+}
+
+.button3 {
+    text-decoration: none;
+    background-color: #c10c0c;
+    padding: 5px 10px 5px 10px;
+    color: white;
+    font-size: 1.2em;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+}
+
+img {
+    height: 350px;
+    width: 400px;
+    margin-left: 37%;
+}
+
+.box1 {
+    width: 320px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #87CEFA;
+    border-radius: 5px;
+}
+
+.box2 {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #87CEFA;
+    border-radius: 5px;
+}
+
+#box3 {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(95, 95, 207); 
+}
+
+#tabela {
+    margin-top: 30px;
+    border-collapse: collapse;
+}
+
+#tabela th {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+    background-color: rgb(95, 95, 207);
+    color: white;
+}
+
+#tabela td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: whitesmoke;
+}
